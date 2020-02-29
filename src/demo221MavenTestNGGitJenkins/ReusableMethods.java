@@ -85,7 +85,7 @@ public class ReusableMethods {
 	 */
 	public static void CreateReport() {
 		String fileName = new SimpleDateFormat("'SFDCReport_'YYYYMMddHHmm'.html'").format(new Date());
-		String path = "C:\\Selenium\\Report\\TestNG\\" + fileName;
+		String path = "C:\\GIT\\Demo-221-MavenTestNGGitJenkins\\Reports\\" + fileName;
 		report = new ExtentReports(path);
 	}
 	

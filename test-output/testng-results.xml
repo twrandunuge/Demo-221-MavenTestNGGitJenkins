@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="19969" started-at="2020-02-29T03:34:23 PST" finished-at="2020-02-29T03:34:43 PST">
+  <suite name="Default suite" duration-ms="23157" started-at="2020-02-29T11:30:39 PST" finished-at="2020-02-29T11:31:02 PST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="19969" started-at="2020-02-29T03:34:23 PST" finished-at="2020-02-29T03:34:43 PST">
+    <test name="Default test" duration-ms="23157" started-at="2020-02-29T11:30:39 PST" finished-at="2020-02-29T11:31:02 PST">
       <class name="demo221MavenTestNGGitJenkins.SFDCTest">
-        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:demo221MavenTestNGGitJenkins.SFDCTest@f4168b8]" name="BeforeTest" is-config="true" duration-ms="13" started-at="2020-02-29T03:34:23 PST" finished-at="2020-02-29T03:34:23 PST">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:demo221MavenTestNGGitJenkins.SFDCTest@f4168b8]" name="BeforeTest" is-config="true" duration-ms="11" started-at="2020-02-29T11:30:39 PST" finished-at="2020-02-29T11:30:39 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeTest -->
-        <test-method status="PASS" signature="Initialize()[pri:0, instance:demo221MavenTestNGGitJenkins.SFDCTest@f4168b8]" name="Initialize" is-config="true" duration-ms="6034" started-at="2020-02-29T03:34:23 PST" finished-at="2020-02-29T03:34:29 PST">
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:demo221MavenTestNGGitJenkins.SFDCTest@f4168b8]" name="Initialize" is-config="true" duration-ms="6101" started-at="2020-02-29T11:30:39 PST" finished-at="2020-02-29T11:30:45 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Initialize -->
-        <test-method status="PASS" signature="LoginSFDC()[pri:0, instance:demo221MavenTestNGGitJenkins.SFDCTest@f4168b8]" name="LoginSFDC" duration-ms="12707" started-at="2020-02-29T03:34:29 PST" finished-at="2020-02-29T03:34:42 PST">
+        <test-method status="PASS" signature="LoginSFDC()[pri:0, instance:demo221MavenTestNGGitJenkins.SFDCTest@f4168b8]" name="LoginSFDC" duration-ms="15600" started-at="2020-02-29T11:30:45 PST" finished-at="2020-02-29T11:31:00 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginSFDC -->
-        <test-method status="PASS" signature="CloseTest()[pri:0, instance:demo221MavenTestNGGitJenkins.SFDCTest@f4168b8]" name="CloseTest" is-config="true" duration-ms="1178" started-at="2020-02-29T03:34:42 PST" finished-at="2020-02-29T03:34:43 PST">
+        <test-method status="PASS" signature="CloseTest()[pri:0, instance:demo221MavenTestNGGitJenkins.SFDCTest@f4168b8]" name="CloseTest" is-config="true" duration-ms="1412" started-at="2020-02-29T11:31:00 PST" finished-at="2020-02-29T11:31:02 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseTest -->
-        <test-method status="PASS" signature="AfterTest()[pri:0, instance:demo221MavenTestNGGitJenkins.SFDCTest@f4168b8]" name="AfterTest" is-config="true" duration-ms="0" started-at="2020-02-29T03:34:43 PST" finished-at="2020-02-29T03:34:43 PST">
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:demo221MavenTestNGGitJenkins.SFDCTest@f4168b8]" name="AfterTest" is-config="true" duration-ms="1" started-at="2020-02-29T11:31:02 PST" finished-at="2020-02-29T11:31:02 PST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterTest -->
       </class> <!-- demo221MavenTestNGGitJenkins.SFDCTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
