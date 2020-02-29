@@ -26,6 +26,7 @@ public class ReusableMethods {
 	 	driver = new ChromeDriver();
 	}
 
+	
 	public static void OpenUrl(String url) {
 		driver.get(url);
 		// driver.manage().window().maximize();

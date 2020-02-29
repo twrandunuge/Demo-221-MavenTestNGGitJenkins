@@ -17,8 +17,7 @@ public class SFDCTest extends ReusableMethods{
 	public void BeforeTest() {
 	System.out.println("BeforeTest");	
 	}
-	
-	
+		
 	@BeforeClass
 	public void Initialize() {
 	InitializeDriver();
